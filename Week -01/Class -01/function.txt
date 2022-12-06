@@ -1,0 +1,56 @@
+
+Serach a string
+print(fbpage[0])
+ 
+name="Code with Mamun"
+result ="with" in name
+print(result)
+print(type(result))  
+
+length
+name="Mamun"
+length=len(name)
+print(length)
+
+slice 
+fbpage="Code with Redoy"
+res=fbpage[0:4]
+res1=fbpage[5:9]
+print(res)
+print(res1)
+
+res=fbpage[-15:-11]
+print(res)
+
+res=fbpage[10:15]
+res1=fbpage[5:]
+print(res)
+print(res1)
+
+page="code with mamun"
+upper=page.upper()
+print(upper)
+
+lower=page.lower()
+print(lower)
+
+white space removing 
+page="  Code With Mamun  "
+print(page)
+res=page.strip()
+
+repalce 
+page="Code With Mamun"
+correct=page.replace("Mamun","Emon")
+print(correct)
+
+split ,#7
+name="Mamun#Emon"
+n=name.split("#")
+print(n)
+concation
+a="Mamun"
+b="is boss"
+c=a+b
+print(c)
+print("Mamun\is boss")

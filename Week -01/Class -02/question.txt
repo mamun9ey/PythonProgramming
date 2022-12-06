@@ -1,0 +1,17 @@
+write a program that accepts an empoyee's id .total worked hours of a mouth and the amount he recived per mouth print the employee's id and salary of a particular mouth 
+write a program to calculate a bike's average consumption from the given total distance traveled and spent fuel 
+
+4)Chef and Chefina are taking about the perimeter of a rectangle.Chef asks Chefina id I provide the length and breadth of a rectangle,can you find the perimeter of that rectangle ?So now your job is to make a program that can find out the perimeter of any rectangle where length and breadth should be taken from the user 
+5)Can you make a program for me that can convert the temperature Fahrenheit to Centigrade and Centigrade to Fahrenheit
+6)Write a program to enter length and breadth of a rectangle and find it's perimeter.
+7)Write a program to enter length and breadth of a rectangle and find it's area.
+8)write a program to calculate area of an equilateral triangle
+9))Write a program to enter length and breadth of a rectangle and find it's area
+10)Write a program to compute the perimeter and area of a circle with a given radius 
+11)write a program to find the thrid angle of a triangle if two angles are given
+12)Write a program to perfrom addition,subtraction,multiplication and division of two number 
+13)write a program to enter markes of five subjects and calculated total ,average and percentange 
+14)write a program that takes minutes as input and display the total number of hours and minutes
+15)write a program to convert specified days into year,weeks  and days
+16)write a program that accepts an employee's id ,total worked hours of a mounth and the amount he received per hour. Print the employee's id and salary of a particular mounth 
+20)Write a program to calculate a bike's average consumption from the given total distance traveled and spent fuel .
