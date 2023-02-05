@@ -1,0 +1,59 @@
+Name=["Abdullah","Mamun",26]
+print(Name[0])
+print(Name[1])
+num,num1,num2=10,20,30
+numbers=[num,num1,num2]
+print(numbers)
+
+num =list((1,2,3,4))
+print(thislist[2:5])
+
+num1 =[1,2,3,4]
+
+if 5 in num1:
+ print("yes")
+else:
+ print("No")
+
+Name=["Abdullah","Mamun",26]
+if Name[0] /"Abdullah" in Name:
+ print("yes")
+else:
+ print("No")
+num=[1,2,5,8,3,6,7]
+num.sort()
+print(num)
+num=[1,2,5,8,3,6,7]
+num.sort(reverse=True)
+print(num)
+numbers=[]
+
+for i in range(0,5):
+num=int(input("Enter a Number:"))
+numbers.append(num)
+print(numbers)
+
+numbers=[]
+for i in range(0,3):
+num=int(input("Enter a Number:"))
+numbers.append(num)
+if 50 in Numbers:
+ print("YES")
+else:
+ print("No")
+page=["Code","With",]
+page.append("Redoy")
+print(page)
+page=["code","Redoy"]
+page.insert(1,"With")
+print(page)
+
+firstName=["Md","Abdullah"]
+lastName=["islam","redoy"]
+firstName.extend(lastName)
+print(firstName)
+print(lastName)
+
+https://chat.openai.com/chat
+min.(num)
+num.copy()

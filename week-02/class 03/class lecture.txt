@@ -1,0 +1,66 @@
+cmd code .   ----open
+input modde ja str hove
+ek line onkgula input newa 
+map(int,input("Enter a two number).split())
+split mean diveded
+True hole 1
+False hole 0
+empty hole false 
+0 value hole false 
+res=isinstance(x,int)
+print(res)
+floor division //
+x+=3 x=x+3
+syntax
+keyword if,else
+if condition:
+statement
+space indadetion 
+or only 1 true print number 
+and 2 tay true hote hove 
+pass ignore
+num%2
+nested if
+if num>0:
+ if num%2 ==0:
+    print(num,"is even number.")
+ else:
+    print(num,"is odd number.")
+
+import random 
+n=int(input("enter any between 1 to 100 ="))
+
+res =random.randrange(1,101)
+print("Random number is :",res)
+if n==res:
+print("you will get a egg")
+else :
+ print("Sorry!")
+
+print(res) 
+
+for i in range (1,101):
+print(i,"mamun")
+
+range(stating,condition,increasing or deccreing)
+or 
+range(sarting,condition)
+while i<=5:
+ print(i)
+ i+=1
+if i==7:
+break          //break loop
+else:
+print(i)
+if i==9:
+continue       //jump loop
+else 
+print(i)
+
+name ="Fuhad"
+for i in range(0,4):
+print(name[i])     //array
+codechef practice or learn more comile and run then submit 
+remainder
+
+

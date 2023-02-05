@@ -4,7 +4,7 @@ a = float(input())
 b = float(input())
 #Calculate the third angle
 
-c = 180 - (a + b);
+c = 180 - (a + b)
 
 #Print the value of third angle
 print("Third angle of the triangle = ", c)
